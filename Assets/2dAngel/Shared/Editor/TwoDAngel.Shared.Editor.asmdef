@@ -1,0 +1,16 @@
+{
+  "name": "TwoDAngel.Shared.Editor",
+  "rootNamespace": "TwoDAngel.Shared.Editor",
+  "references": [],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
